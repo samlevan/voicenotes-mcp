@@ -25,26 +25,12 @@ https://mcp-voicenotes-production.up.railway.app/{your_api_key}/mcp
 
 > Provided as a convenience. No uptime guarantees. Self-host if you need reliability.
 
-### Claude.ai (web)
+### Claude.ai (web) and Claude Desktop
 
-Go to **Settings > Integrations > Add MCP Server** and paste the URL:
+Go to **Settings > Connectors > +** and enter:
 
-```
-https://mcp-voicenotes-production.up.railway.app/{your_api_key}/mcp
-```
-
-### Claude Desktop
-
-Add to `~/Library/Application Support/Claude/claude_desktop_config.json` under `mcpServers`:
-
-```json
-"voicenotes": {
-  "type": "http",
-  "url": "https://mcp-voicenotes-production.up.railway.app/{your_api_key}/mcp"
-}
-```
-
-Restart Claude Desktop after saving.
+- **Name**: Voicenotes
+- **Remote MCP server URL**: `https://mcp-voicenotes-production.up.railway.app/{your_api_key}/mcp`
 
 ### Claude Code
 
