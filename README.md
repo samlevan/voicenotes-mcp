@@ -14,7 +14,7 @@ Once connected, you can ask Claude things like:
 
 Claude will search semantically, not just by keyword, so "ideas about hiring" will surface relevant notes even if you never used those exact words.
 
-![Demo](assets/demo.png)
+<img src="assets/demo.png" width="500" />
 
 ## Setup
 
