@@ -14,6 +14,8 @@ Once connected, you can ask Claude things like:
 
 Claude will search semantically, not just by keyword, so "ideas about hiring" will surface relevant notes even if you never used those exact words.
 
+![Demo](assets/demo.png)
+
 ## Setup
 
 First, get your VoiceNotes API key at [voicenotes.com/app#settings](https://voicenotes.com/app?open-claw=true#settings).
